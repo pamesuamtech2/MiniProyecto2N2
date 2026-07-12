@@ -118,7 +118,7 @@ function MainDashboard({ className = '', weatherData, unit, setUnit, isLoading }
       </div>
 
       <footer className="text-center text-[#A09FB1] font-weather text-sm font-medium">
-        created by <span className="font-bold underline">TuNombre</span> - devChallenges.io
+        created by <span className="font-bold underline">Pame Suarez</span> 
       </footer>
     </main>
   );
